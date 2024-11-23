@@ -1,0 +1,58 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "title": "Introduction to Angular",
+        "body": "Angular is a platform for building mobile and desktop web applications. It provides a way to structure your code, manage components, and handle data effectively. The framework is maintained by Google and has a vast ecosystem of tools and libraries.\n\nGetting started with Angular involves understanding its core concepts like components, templates, and services. By mastering these fundamentals, you can create scalable and efficient applications for a wide range of use cases."
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "title": "Understanding JavaScript Closures",
+        "body": "Closures are a fundamental concept in JavaScript that allows functions to access variables from their outer lexical scope, even after that scope has exited. This is achieved by the function 'remembering' the environment in which it was created.\n\nClosures are widely used in JavaScript for tasks like data encapsulation, function factories, and callback functions. They can seem tricky at first, but once you understand their mechanics, they become an incredibly powerful tool for writing clean and modular code."
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "postId": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "body": "Great post! Looking forward to more content on Angular."
+      },
+      {
+        "id": 2,
+        "postId": 1,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "body": "This was really helpful, I’ve been struggling to understand Angular."
+      },
+      {
+        "id": 3,
+        "postId": 2,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "body": "This article on closures is fantastic. Very well explained!"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "username": "john_doe",
+        "email": "john@example.com",
+        "phone": "123-456-7890",
+        "website": "johndoe.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "phone": "987-654-3210",
+        "website": "janesmith.com"
+      }
+    ]
+  }
+  
