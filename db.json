@@ -5,24 +5,24 @@
       "title": "Post Title 1",
       "body": "This is the content of the first post.",
       "author": "John Doe",
-      "headerImageUrl": "https://example.com/image1.jpg",  // Add your image URL here
-      "date": "2024-11-23"  // Add the date here in YYYY-MM-DD format
+      "headerImageUrl": "https://www.freewebheaders.com/wp-content/gallery/plants-cactus/cache/beautiful-natural-red-leaves-plant-scenery-web-header.jpg-nggid045218-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg",  
+      "date": "2024-11-23"  
     },
     {
       "id": 2,
       "title": "Post Title 2",
       "body": "This is the content of the second post.",
       "author": "Jane Smith",
-      "headerImageUrl": "https://example.com/image2.jpg",  // Add your image URL here
-      "date": "2024-11-24"  // Add the date here in YYYY-MM-DD format
+      "headerImageUrl": "https://www.freewebheaders.com/wp-content/gallery/natural-abstract/colorful-autumn-forest-abstract-design-website-header.jpg",  
+      "date": "2024-11-24"  
     },
     {
       "id": 3,
       "title": "Post Title 3",
       "body": "This is the content of the third post.",
       "author": "Alice Johnson",
-      "headerImageUrl": "https://example.com/image3.jpg",  // Add your image URL here
-      "date": "2024-11-25"  // Add the date here in YYYY-MM-DD format
+      "headerImageUrl": "https://www.freewebheaders.com/wp-content/gallery/plants-cactus/cache/amazing-beautiful-pino-enano-pine-plant-field-header.jpg-nggid045217-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg",  
+      "date": "2024-11-25" 
     }
   ],
   "comments": [
