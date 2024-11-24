@@ -1,32 +1,28 @@
 {
   "posts": [
-    {
+   {
       "id": 1,
-      "userId": 1,
-      "author": {
-        "id": 1,
-        "name": "John Doe",
-        "username": "john_doe",
-        "email": "john@example.com",
-        "phone": "123-456-7890",
-        "website": "johndoe.com"
-      },
-      "title": "Introduction to Angular",
-      "body": "Angular is a platform for building mobile and desktop web applications. It provides a way to structure your code, manage components, and handle data effectively. The framework is maintained by Google and has a vast ecosystem of tools and libraries.\n\nGetting started with Angular involves understanding its core concepts like components, templates, and services. By mastering these fundamentals, you can create scalable and efficient applications for a wide range of use cases."
+      "title": "Post Title 1",
+      "body": "This is the content of the first post.",
+      "author": "John Doe",
+      "headerImageUrl": "https://example.com/image1.jpg",  // Add your image URL here
+      "date": "2024-11-23"  // Add the date here in YYYY-MM-DD format
     },
     {
       "id": 2,
-      "userId": 2,
-      "author": {
-        "id": 2,
-        "name": "Jane Smith",
-        "username": "jane_smith",
-        "email": "jane@example.com",
-        "phone": "987-654-3210",
-        "website": "janesmith.com"
-      },
-      "title": "Understanding JavaScript Closures",
-      "body": "Closures are a fundamental concept in JavaScript that allows functions to access variables from their outer lexical scope, even after that scope has exited. This is achieved by the function 'remembering' the environment in which it was created.\n\nClosures are widely used in JavaScript for tasks like data encapsulation, function factories, and callback functions. They can seem tricky at first, but once you understand their mechanics, they become an incredibly powerful tool for writing clean and modular code."
+      "title": "Post Title 2",
+      "body": "This is the content of the second post.",
+      "author": "Jane Smith",
+      "headerImageUrl": "https://example.com/image2.jpg",  // Add your image URL here
+      "date": "2024-11-24"  // Add the date here in YYYY-MM-DD format
+    },
+    {
+      "id": 3,
+      "title": "Post Title 3",
+      "body": "This is the content of the third post.",
+      "author": "Alice Johnson",
+      "headerImageUrl": "https://example.com/image3.jpg",  // Add your image URL here
+      "date": "2024-11-25"  // Add the date here in YYYY-MM-DD format
     }
   ],
   "comments": [
